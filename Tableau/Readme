@@ -1,52 +1,20 @@
-Summary of the COVID-19 Data Dashboard Project
-This project presents an interactive COVID-19 Data Dashboard created using Tableau, showcasing global and regional insights into the pandemic's impact. It provides stakeholders with a comprehensive view of the pandemic's scale, trends, and variations across countries and continents.
+# 🌍 Tableau: Global Public Health & Time-Series Data Analysis
 
-Key Features:
-Global Overview:
+This project showcases expertise in utilizing **Tableau** for visualizing complex **geospatial and time-series data**. The focus is on public health, specifically tracking and analyzing the global and regional trends of the COVID-19 pandemic.
 
-Total Cases: 77.2 million.
-Total Deaths: 6.97 million.
-Death Percentage: 0.903% globally, reflecting the severity of the pandemic.
-Regional Breakdown:
+### 🎯 Business Objective
 
-Death Count Per Continent:
-Europe reported the highest fatalities (over 2 million), followed by Asia and North America.
-Africa and Oceania reported comparatively fewer deaths.
-This visualization helps understand how the pandemic impacted different continents.
-Geographic Insights:
+To provide a clear, real-time, and easily digestible view of the pandemic's impact, enabling public health officials and stakeholders to monitor the progression, identify regional disparities, and understand temporal trends.
 
-Percent Population Infected Per Country:
-A heatmap visually highlights countries with higher infection rates (up to 75.07%).
-This allows quick identification of hotspots like the United States and Europe.
-Trends Over Time:
+### 📊 Key Achievements & Results
 
-Percent Population Infected:
-A line chart depicts how infection rates evolved across major countries (e.g., the U.S., India, China, etc.) from 2020 to 2023.
-The U.S. reached a peak infection rate of 30.41%, while China's rate remained significantly lower at 6.94%.
-Key Achievements:
-Comprehensive Analysis:
+* **Comprehensive Geospatial Analysis:** Created interactive **heatmaps and filled maps** to clearly display infection and fatality rates per country and continent, immediately identifying global hotspots.
+* **Temporal Trend Tracking:** Utilized **line graphs and rolling averages** to track the progression of infection rates over a multi-year period (2020-2023), revealing peak periods and regional progression.
+* **Data Density Visualization:** Designed charts to effectively communicate high-density metrics, such as **peak infection rates (e.g., U.S. at 30.41%)**, allowing for quick, data-driven comparisons.
+* **Effective Data Storytelling:** Structured the dashboard to guide the user through global trends down to regional specifics, demonstrating strong data storytelling skills essential for executive reporting.
 
-Successfully aggregated and visualized pandemic data at both global and regional levels.
-Enabled comparative analysis across continents and countries.
-Actionable Insights:
+### 🛠 Tools and Techniques
 
-Identified regions with the highest infection and fatality rates for better resource allocation.
-Provided a time-series analysis to track the progression of infections over the years.
-Effective Use of Tableau:
-
-Designed interactive dashboards with:
-Heatmaps for geographical insights.
-Bar and line charts for temporal and categorical data analysis.
-Filters for dynamic exploration of the dataset.
-Enhanced Decision-Making:
-
-Empowered policymakers, health organizations, and researchers to understand the pandemic’s trajectory and plan interventions accordingly.
-Conclusion:
-This COVID-19 Dashboard demonstrates the power of data visualization in summarizing complex datasets into actionable insights. It showcases Swati’s ability to integrate data analysis with storytelling, making it an invaluable tool for stakeholders navigating the global health crisis.
-
-
-
-
-
-
-
+* **Primary Tool:** **Tableau**.
+* **Focus Areas:** Time-Series Analysis, Geospatial Visualization, Public Data Exploration (EDA), and Executive Reporting.
+* **Skills Demonstrated:** Creating dual-axis charts, advanced filtering, use of parameters, and optimized color palettes for high-impact visualization.
