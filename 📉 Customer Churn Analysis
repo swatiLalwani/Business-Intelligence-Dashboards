@@ -1,0 +1,103 @@
+📉 Customer Churn Analysis Dashboard (Tableau)
+📌 Overview
+
+This interactive Tableau dashboard analyzes customer churn patterns to help organizations identify at-risk customers, understand churn drivers, and design targeted retention strategies.
+The dashboard provides visibility into churn KPIs, customer segmentation, and cohort trends, enabling business teams to make data-driven retention decisions.
+
+🔗 Live Dashboard:
+https://public.tableau.com/app/profile/swati.thakurbhai.lalwani/viz/CustomerChurnAnalysis_17340346188020/Dashboard1
+
+🎯 Business Problem
+
+Customer churn is one of the most expensive problems for subscription-based businesses.
+Most companies struggle to answer:
+
+Who is leaving?
+
+Why are they leaving?
+
+When are they most likely to churn?
+
+Which customer segments are at highest risk?
+
+This dashboard solves these questions using exploratory analytics, KPIs, and segmentation.
+
+✅ Key Features
+
+✔ Churn KPIs – total churn %, active users, retention trend
+✔ Interactive Filters – segment by tenure, region, subscription plan, demographics
+✔ Cohort Analysis – tracks retention over time across lifecycle stages
+✔ At-Risk Segments – highlights customer groups with highest churn probability
+✔ Drill-Down Insights – click into segments to view customer profile breakdown
+
+📊 Data Sources & Techniques
+
+Customer subscription records
+
+Usage data (login frequency, last activity)
+
+Demographic attributes (age group, region, plan type)
+
+Billing and cancellation history
+
+Calculated fields in Tableau:
+
+Churn Flag
+
+Churn Rate by Segment
+
+Retention Curve
+
+Customer Lifetime Value Buckets
+
+🔎 Business Insights Produced
+
+✅ Customers with low platform usage in the first 60–90 days show significantly higher churn
+✅ “High-value / low-engagement” customers had a 22% higher churn rate than the average
+✅ Premium users churned less when early onboarding tasks were completed
+✅ Multi-year customers have the highest retention probability
+
+💡 Recommended Actions
+
+✔ Launch onboarding campaigns for new users in first 90 days
+✔ Offer targeted discounts to high-value/high-risk customers
+✔ Trigger automatic alerts when user login frequency drops below threshold
+✔ Tailor retention strategies by segment (region, plan, lifetime value)
+
+📈 Business Impact
+
+Reduces churn & revenue loss through targeted intervention
+
+Helps product and customer success teams prioritize at-risk users
+
+Improves forecasting of future churn and revenue impact
+
+Enables leadership to see real-time customer health
+
+🧠 Skills Demonstrated
+Area	Tools & Methods
+BI Development	Tableau, Calculated Fields, Parameters, Filters, Actions
+KPI Design	Churn Rate, Retention Curve, Lifetime Value Segments
+Data Modeling	Customer churn flagging, usage metrics, cohort tables
+Storytelling	Insight-driven dashboards for executives & operations
+🖥 Dashboard Preview
+
+
+
+📂 Repository Structure
+Customer-Churn-Dashboard/
+│
+├── visuals/
+│   └── churn_dashboard.png
+├── data/  (simulated or schema reference)
+└── README.md
+
+🚀 Future Enhancements
+
+Add churn prediction model (classification) and integrate predictions into dashboard
+
+Connect to live SQL or Snowflake data for automated refresh
+
+Deploy in Power BI for stakeholder comparison
+
+Build drill-down customer profiles with usage history
